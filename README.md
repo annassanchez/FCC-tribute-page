@@ -1,1 +1,1 @@
-# annassanchez.github.io-FCC-tribute-page
+# annassanchez.github.io/FCC-tribute-page
